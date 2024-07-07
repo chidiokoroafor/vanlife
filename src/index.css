@@ -102,7 +102,7 @@ body{
 
 .about .hero{
   height: 40vh;
-  background-image: url("images/about-hero.jpg");
+  background-image: url("/public/images/about-hero.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
